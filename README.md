@@ -1,28 +1,45 @@
-# Hi, I'm Nandakumar 👋
+<h1 align="center">Hi, I'm Nandakumar 👋</h1>
+<h3 align="center">AI & Machine Learning Engineer</h3>
 
-🚀 AI & Machine Learning Developer  
-🧠 Computer Vision | Image Processing  
-💻 Python Enthusiast  
-
----
-
-## 🔥 About Me
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 🤖 Building intelligent real-world AI systems
-- 📈 Currently improving ML fundamentals and system design
+<p align="center">
+Building intelligent systems with Python and Computer Vision.
+</p>
 
 ---
 
-## 🛠 Tech Stack
-- Python
-- Machine Learning
-- Computer Vision
-- Git & GitHub
+### 🧠 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science  
+- 🤖 Focused on Machine Learning & Computer Vision  
+- 🏗️ Interested in building scalable AI systems  
+- 📈 Currently strengthening ML fundamentals & system design  
 
 ---
 
-## 📫 Connect With Me
+### 🛠️ Tech Stack
+
+- **Languages:** Python  
+- **Core Areas:** Machine Learning, Computer Vision, Image Processing  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 🚀 What I’m Working On
+
+- Improving ML depth from fundamentals  
+- Building real-world AI-based applications  
+- Strengthening problem-solving skills  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandakumar005&show_icons=true&theme=default" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
 - LinkedIn: https://www.linkedin.com/in/nanda-kumar-d-2325a5326
-- ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
