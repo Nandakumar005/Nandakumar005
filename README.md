@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nandakumar 👋</h1>
-<h3 align="center">AI & Machine Learning Engineer</h3>
+<h3 align="center">AI & data science student</h3>
 
 <p align="center">
 Building intelligent systems with Python and Computer Vision.
@@ -10,7 +10,7 @@ Building intelligent systems with Python and Computer Vision.
 ### 🧠 About Me
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science  
-- 🤖 Focused on Machine Learning & Computer Vision  
+- 🤖 Focused on Machine Learning  
 - 🏗️ Interested in building scalable AI systems  
 - 📈 Currently strengthening ML fundamentals & system design  
 
@@ -18,7 +18,7 @@ Building intelligent systems with Python and Computer Vision.
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python  
+- **Languages:** Python 
 - **Core Areas:** Machine Learning, Computer Vision, Image Processing  
 - **Tools:** Git, GitHub, VS Code  
 
