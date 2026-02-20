@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nandakumar 👋
 
-<!--
-**Nandakumar005/Nandakumar005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Machine Learning Developer  
+🧠 Computer Vision | Image Processing  
+💻 Python Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🤖 Building intelligent real-world AI systems
+- 📈 Currently improving ML fundamentals and system design
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Machine Learning
+- Computer Vision
+- Git & GitHub
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nanda-kumar-d-2325a5326
+- ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
