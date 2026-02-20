@@ -32,11 +32,9 @@ Building intelligent systems with Python and Computer Vision.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandakumar005&show_icons=true&theme=default" />
-</p>
+![Nandakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandakumar005&show_icons=true&hide_border=true)
 
 ---
 
