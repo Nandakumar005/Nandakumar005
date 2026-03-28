@@ -2,7 +2,7 @@
 <h3 align="center">AI & data science student</h3>
 
 <p align="center">
-Building intelligent systems with Python and Computer Vision.
+ASPIRANT MACHINE LEARING ENTHUSIST.
 </p>
 
 ---
