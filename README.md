@@ -1,263 +1,169 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nandakumar%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20Developer&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Nandakumar%20D&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Machine%20Learning%20Engineer%20%7C%20Data%20Science%20Builder%20%7C%20AI%20App%20Developer&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Hey+there%2C+I%27m+Nandakumar+%F0%9F%91%8B;Machine+Learning+Engineer+%7C+Data+Science;Python+%7C+FastAPI+%7C+Flask+%7C+SQL;Final+Year+AI%20%26%20DS+Student" alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Computer+Vision+Developer;Python+%7C+YOLOv8+%7C+OpenCV;Building+AI+Solutions+for+Real+World+Problems"/>
+<br/>
 
-<br>
+---
 
-<a href="https://github.com/Nandakumar005">
-<img src="https://komarev.com/ghpvc/?username=Nandakumar005&style=for-the-badge&color=blueviolet"/>
-</a>
+## About Me
 
-<a href="mailto:nandakumardg8@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<a href="https://linkedin.com/in/nanda-kumar-d-2325a5326">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Hey! I'm **Nandakumar D**, a pre-final year **B.Tech AI and Data Science** student from **Chennai, India**.
 
+Graduating **May 2027** at **Vel Tech High Tech**.
+
+I enjoy building practical **machine learning systems**, clean **data workflows**, and reliable **AI web applications** that solve real problems.
+
+Reach me at **nandakumardg8@gmail.com**
+
+> *Build real systems. Solve real problems. Ship it.*
+
+<br clear="right"/>
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Machine Learning / AI**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**Backend / APIs / Deployment**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Data / Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Databases / Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandakumar005&amp;theme=tokyonight" width="100%" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nandakumar005&amp;theme=tokyonight" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nandakumar005&amp;theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nandakumar005&amp;theme=tokyonight" width="32%" alt="Stats"/>
 </div>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class Nandakumar:
-
-    def __init__(self):
-        self.name = "Nandakumar D"
-        self.location = "Chennai, India"
-
-        self.degree = (
-            "B.Tech Artificial Intelligence & Data Science"
-        )
-
-        self.stack = [
-            "Python",
-            "Java",
-            "SQL",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "FastAPI",
-            "Flask",
-            "OpenCV",
-            "PyTorch",
-            "YOLOv8"
-        ]
-
-        self.currentlyLearning = [
-            "Data Structures & Algorithms",
-            "System Design",
-            "Full Stack Development",
-            "MLOps"
-        ]
-
-        self.fun_fact = (
-            "Built a YOLOv8 wildlife monitoring system "
-            "with 92%+ accuracy optimized for CPU deployment."
-        )
-
-    def motto(self):
-        return "Build • Learn • Optimize • Repeat"
-````
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### Frameworks & Libraries
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### Cloud & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=white)
-
-### Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square)
-
----
-
-# 📊 GitHub Statistics
+## Streak
 
 <div align="center">
-
-<a href="https://github.com/Nandakumar005">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandakumar005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-
-<a href="https://github.com/Nandakumar005">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
+  <img src="https://streak-stats.demolab.com?user=Nandakumar005&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## Activity Graph
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nandakumar005&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar005&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar005&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
----
-
-# 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nandakumar005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
-</div>
-
----
-
-# 💼 Work Experience
+## Experience
 
 <details>
-<summary><b>NSIC Technical Services Centre | Machine Learning Intern | Dec 2024 | Chennai</b></summary>
+<summary><b>NSIC Technical Services Centre — Machine Learning Intern · Dec 2024 · Chennai, India</b></summary>
 
-> Python • Machine Learning • scikit-learn • Data Preprocessing
+<br/>
 
-* Processed and cleaned 2,000+ real-world records.
-* Reduced data inconsistencies by approximately 30%.
-* Improved model accuracy from 72% to 87% using hyperparameter tuning.
-* Generated evaluation reports that reduced manual review time by 2+ hours per iteration.
+> `Python` · `scikit-learn` · `Pandas` · `NumPy` · `Feature Engineering` · 
+
+- Cleaned and preprocessed **2,000+ real-world records** with missing-value handling, normalization, and feature engineering.
+- Trained and fine-tuned supervised models for classification and regression using Python and scikit-learn.
+- Improved model accuracy by **15%** through systematic hyperparameter tuning across **3 architectures**.
+- Built a structured experimentation pipeline for stronger evaluation and more reliable inference.
 
 </details>
 
 ---
 
-# 🚀 Featured Project
+## Selected Projects
 
 <div align="center">
 
-## 🦁 Real-Time Wildlife Monitoring System
-
-</div>
-
-| Category             | Details                                       |
-| -------------------- | --------------------------------------------- |
-| Technologies         | Python, YOLOv8, OpenCV, Roboflow, Flask, SMTP |
-| Accuracy             | 92%+ Detection Accuracy                       |
-| Deployment           | CPU Optimized                                 |
-| Performance Gain     | 35% Faster Inference                          |
-| Alert System         | Automated Email Notifications                 |
-| Storage Optimization | Reduced Storage Usage by 50%                  |
-| Input Sources        | Webcam, IP Camera, Video Files                |
-
-### Key Features
-
-* Real-time wildlife intrusion detection
-* Multi-source video support
-* Automated email alert system
-* Confidence-based recording
-* CPU-only deployment optimization
-* Web dashboard integration
-
-🔗 **Repository:**
-[https://github.com/Nandakumar005/wild-animal-intrusion-detection-using-YOLOV8](https://github.com/Nandakumar005/wild-animal-intrusion-detection-using-YOLOV8)
-
----
-
-# 🏅 Achievements
-
-<div align="center">
-
-| Achievement                 | Details                                                           |
-| --------------------------- | ----------------------------------------------------------------- |
-| 🚀 Computer Vision Project  | Built a YOLOv8-based wildlife detection system with 92%+ accuracy |
-| 📈 Performance Optimization | Reduced inference time by 35%                                     |
-| 📊 Data Engineering         | Processed 2,000+ records during internship                        |
-| 🧠 Model Improvement        | Increased model accuracy from 72% to 87%                          |
-| 📜 Certification            | Machine Learning Using Python – Simplilearn                       |
-| 📊 Certification            | Data Visualization Techniques – Infosys Springboard               |
+| Project | Stack | Highlights |
+|---|---|---|
+| [**Real-Time AI Monitoring System**](https://github.com/Nandakumar005/wild-animal-intrusion-detection-using-YOLOV8) | `Python` `OpenCV` `Roboflow` `smtplib` | Real-time detection pipeline · smart alerting · faster monitoring workflow |
+| [**AI Crop Recommendation System**](https://github.com/Nandakumar005/ai_crop_prediction) | `Python` `scikit-learn` `Flask` `Pandas` `Gemini` `Weather API` | ML-based recommendation engine · live weather inputs · web dashboard |
 
 </div>
 
 ---
 
-# 🎓 Education
+## Achievements / Certifications
 
 <div align="center">
 
-| Degree                                        | Institution                                                          | Duration    |
-| --------------------------------------------- | -------------------------------------------------------------------- | ----------- |
-| B.Tech Artificial Intelligence & Data Science | Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College | 2023 - 2027 |
-| Higher Secondary Education                    | Everwin Matriculation Higher Secondary School                        | 2019 - 2023 |
+| Achievement | Details |
+|---|---|
+| **Machine Learning Using Python** — Simplilearn | Completed: July 2025 |
+| **Data Visualization Techniques** — Infosys Springboard | Completed: Jan 2026 |
+| **ML Internship Impact** — NSIC | 2,000+ records cleaned · 30% inconsistency reduction · 15% accuracy gain |
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+## Currently Learning
 
 ```text
-🧱 Data Structures & Algorithms → Problem Solving, Interview Preparation
-🧱 Full Stack Development → Java, Spring Boot, REST APIs
-🧱 Machine Learning → Advanced Algorithms, Optimization
-🧱 MLOps → Deployment, Monitoring, CI/CD
-🧱 System Design → Scalable Backend Architecture
+Reinforcement Learning  -->  Deep Q-Networks (DQN)  Environment Design  Agent Training
+Backend Development     -->  FastAPI  Flask  REST APIs  SQL Databases
+Software Development    -->  Java  Data Structures & Algorithms  OOPs
 ```
 
 ---
 
-# 🎯 2026 Goals
+## Connect With Me
 
-* Master Data Structures & Algorithms
-* Build Production-Ready Full Stack Applications
-* Learn Spring Boot and Microservices
-* Contribute to Open Source Projects
-* Secure a Software Development Engineer Role
-* Publish More AI/ML Projects
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanda-kumar-d-2325a5326)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nandakumar005)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nandakumardg8@gmail.com)
 
-# 🌐 Connect With Me
+![Profile Views](https://komarev.com/ghpvc/?username=Nandakumar005&amp;style=flat-square&amp;color=70a5fd&amp;label=Profile+Views)
 
-📍 Chennai, India
+</div>
 
-📧 [nandakumardg8@gmail.com](mailto:nandakumardg8@gmail.com)
-
-💼 LinkedIn: [www.linkedin.com/in/nanda-kumar-d-2325a5326](http://www.linkedin.com/in/nanda-kumar-d-2325a5326)
-
-🐙 GitHub: github.com/Nandakumar005
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-```
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
