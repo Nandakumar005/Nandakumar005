@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&lines=3rd+Year+AI+%26+DS+Student+%F0%9F%8E%93;Learning+by+Building+Real+Projects;Python+%7C+ML+%7C+Computer+Vision;Always+Curious%2C+Always+Shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&lines=Final+Year+AI+%26+DS+Student;ML+%7C+Backend+%7C+Databases+%7C+Frontend;Building+Real+Projects+That+Work;Always+Curious%2C+Always+Shipping" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,14 +10,15 @@
 
 ---
 
-## Hey, I'm Nandakumar
+## Hey, I am Nandakumar
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm a **Final year B.Tech student** (AI &amp; Data Science) at Vel Tech High Tech, Chennai — graduating May 2027.
+Final year **B.Tech student** in AI & Data Science at Vel Tech High Tech, Chennai — graduating May 2027.
 
+Currently deepening my skills across **machine learning**, **backend APIs**, **databases**, and **frontend development**.
 
-📫 **nandakumardg8@gmail.com**
+**nandakumardg8@gmail.com**
 
 <br clear="right"/>
 
@@ -94,69 +95,6 @@ I'm a **Final year B.Tech student** (AI &amp; Data Science) at Vel Tech High Tec
 
 ---
 
-## Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nandakumar005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
-## Internship
-
-<details>
-<summary><b>NSIC Technical Services Centre — ML Intern · Dec 2024 · Chennai</b></summary>
-
-<br/>
-
-> `Python` · `scikit-learn` · `Pandas` · `NumPy` · `Feature Engineering`
-
-My first real industry experience. I worked on actual messy data — not the clean Kaggle kind.
-
-- Cleaned and preprocessed **1,000+ records** with missing values, normalization, and feature engineering
-- Cut data inconsistencies by roughly **30%**
-- Trained classification and regression models and pushed accuracy from **72% to 87%** by tuning 3 different architectures
-
-</details>
-
----
-
-## Projects I've Built
-
-<div align="center">
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Wildlife Intrusion Detection**](https://github.com/Nandakumar005/wild-animal-intrusion-detection-using-YOLOV8) | Detects animals in real-time and fires email alerts — 92%+ accuracy, 35% faster inference | `YOLOv8` `OpenCV` `Python` `Roboflow` |
-| [**AI Crop Recommendation**](https://github.com/Nandakumar005/ai_crop_prediction) | Takes NPK values + live weather and recommends crops with an LLM-powered advisory | `scikit-learn` `Flask` `Gemini` `Python` |
-
-</div>
-
----
-
-## Certifications
-
-<div align="center">
-
-| Course | Provider | When |
-|---|---|---|
-| Machine Learning Using Python | Simplilearn | July 2025 |
-| Data Visualization Techniques | Infosys Springboard | Jan 2026 |
-
-</div>
-
----
-
-## Currently Learning
-
-```text
-Reinforcement Learning  -->  DQN  reward shaping  agent-environment loops
-LLMs + RAG              -->  LangChain  FAISS  Ollama  prompt engineering
-Algorithms              -->  DSA in Java and python  OOP fundamentals
-Databases               -->  SQL  PostgreSQL  schema design
-```
-
----
 
 ## Find Me
 
